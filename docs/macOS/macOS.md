@@ -1,12 +1,12 @@
 ---
 layout: default
-title: GitHub
-nav_order: 5
+title: macOS
+nav_order: 4
 has_children: true
-permalink: /docs/GitHub
+permalink: /docs/macOS
 ---
 
-# GitHub
+# macOS
 
 Will be updated later
 {: .fs-6 .fw-300 }
