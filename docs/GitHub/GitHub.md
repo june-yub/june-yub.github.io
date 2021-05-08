@@ -1,12 +1,12 @@
 ---
 layout: default
-title: Objective-C
-nav_order: 3
+title: GitHub
+nav_order: 4
 has_children: true
-permalink: /docs/Objective-C
+permalink: /docs/GitHub
 ---
 
-# Objective-C
+# GitHub
 
 Will be updated later
 {: .fs-6 .fw-300 }
